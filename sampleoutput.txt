@@ -1,0 +1,9 @@
+Enter a word or sentence: 1234321
+It is a palindrome.
+
+Enter a word or sentence: Never Odd Or Even
+It is a palindrome
+
+
+Enter a word or sentence: madeena
+It is not a palindrome.
